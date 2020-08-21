@@ -1,4 +1,4 @@
-(function () {
+(function (windows) {
 
 var names = ["prit", "John", "linda", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
